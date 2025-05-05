@@ -12,9 +12,8 @@ Git command:
 
 ![Screenshot 2025-05-05 150709](https://github.com/user-attachments/assets/e7b5ca7a-28d1-42e7-9797-900fcf30cc0a)
 
-Changes MAde in Each Commit:
+Changes Made in Each Commit:
 1) fix: add text in first line
-
 changed first line of file.txt from This is my Assignment-1 to This is my Main Assignment-1 (Change 1)
 
 2) fix: define Git Commands
