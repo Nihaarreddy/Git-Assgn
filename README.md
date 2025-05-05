@@ -24,7 +24,7 @@ Defined MInfy as "Minfy is a Cloud Based Company" in fifth line
 
 
 
-## Assignment 2: GitHub Basics & Collaboration
+## ASSIGNMENT 2: GitHub Basics & Collaboration
 
 **1)GitHub Repository Link:**
     GitHub: https://github.com/Nihaarreddy/Git-Assgn
