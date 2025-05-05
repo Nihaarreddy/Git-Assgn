@@ -1,5 +1,6 @@
 This is my Main Assignment-1 (Change 1)
 THis is Git Commands Work
+Git Commands are a way to interact with Git Tool
 This is from Minfy
 Minfy Tech Intern
 Minfy is ours
